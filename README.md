@@ -27,4 +27,4 @@ See [CHANGELOG.md](./CHANGELOG.md) for details.
 
 ## Contact
 
-For questions or access requests, contact ...
+For questions or access requests, contact [Insert BSAB Contact Email].
