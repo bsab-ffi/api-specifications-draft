@@ -22,3 +22,7 @@ Each repository release is dated (YYYY-MM-DD) and reflects the latest approved c
 - Added `README.md` with structure and access guidelines
 
 ---
+
+---
+
+© 2025 BSAB – All rights reserved.
