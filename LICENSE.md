@@ -1,6 +1,6 @@
 # FFI API Specification License
 
-**Version 1 – Effective Date: 2025-04-23**
+Effective Date: **2025-04-23**
 
 This license governs the use of the contents of this repository, which includes the FFI Core API specification, the FFI Contract API specification, and related documentation and conventions. The materials are made publicly accessible for transparency but are subject to the following restrictions regarding their implementation and usage.
 
