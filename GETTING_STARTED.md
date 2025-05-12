@@ -2,15 +2,15 @@
 
 This guide explains how to use the FFI APIs depending on your role in the infrastructure:
 
-- 📄 The **Contract API** – Retrieve your bilateral contract
-- 📦 The **Core API** – Send, receive, and acknowledge messages
-- 📚 The **Conventions** – Ensure consistency, validation, security and compliance
+- The **Contract API** – Retrieve your bilateral contract
+- The **Core API** – Send, receive, and acknowledge messages
+- The **Conventions** – Ensure consistency, validation, security and compliance
 
 All usage is governed by BSAB. See [LICENSE.md](./LICENSE.md) for terms.
 
 ---
 
-## 🔁 Two Roles: Requestor (Client) and Respondent (Server)
+## Two Roles: Requestor (Client) and Respondent (Server)
 
 Each participating entity acts either as:
 
@@ -21,7 +21,7 @@ Each participating entity acts either as:
 
 ---
 
-## 🖥️ Scenario: Acting as a Client (FFI Requestor)
+## Scenario: Acting as a Client (FFI Requestor)
 
 ### 1. Retrieve your contract
 
@@ -58,7 +58,7 @@ Each participating entity acts either as:
 
 ---
 
-## ⚙️ Scenario: Acting as a Server (FFI Respondent)
+## Scenario: Acting as a Server (FFI Respondent)
 
 ### 1. Expose the Contract API
 
@@ -90,7 +90,7 @@ Each participating entity acts either as:
 
 ---
 
-## 📌 About the Version Placeholders
+## About the Version Placeholders
 
 The `<core-api-major-version>` and `<contract-api-major-version>` parts in the URLs are **placeholders** for the actual **major versions** of each respective API.  
 
@@ -98,7 +98,7 @@ Each federation or provider is responsible for exposing the correct version(s), 
 
 ---
 
-## 📚 Required Conventions
+## Required Conventions
 
 | Area              | Convention |
 |-------------------|------------|
@@ -111,7 +111,7 @@ Each federation or provider is responsible for exposing the correct version(s), 
 
 ---
 
-## ✅ Summary – Message Flow (as Client)
+## Summary – Message Flow (as Client)
 
 ```text
 GET /<contract-api-major-version>/contract
@@ -126,7 +126,7 @@ POST /<core-api-major-version>/responses/{responseId}/acknowledge
 ```
 ---
 
-## 🛠️ Implementation Guidance
+## Implementation Guidance
 
 - Use the ffi-core.yaml and ffi-contract.yaml OpenAPI files
 - Follow conventions under /conventions/
