@@ -64,7 +64,7 @@ The latest official version of this repository is available at:
 🔗 https://github.com/financial-flow-infrastructure-se/ffi
 
 For licensing questions or to request formal implementation approval, contact:  
-📧 [Insert BSAB Contact Email]
+📧 ffisecretariat@bankinfrastruktur.se
 
 ---
 

@@ -35,7 +35,7 @@ See [GETTING_STARTED.md](./GETTING_STARTED.md) for details.
 
 ## Contact
 
-For questions or access requests, contact [Insert BSAB Contact Email].
+For questions, contact ffisecretariat@bankinfrastruktur.se.
 
 ---
 
