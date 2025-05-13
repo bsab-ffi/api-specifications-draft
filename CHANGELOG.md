@@ -12,16 +12,18 @@ Each repository release is dated (YYYY-MM-DD) and reflects the latest approved c
 
 ---
 
-## [2025-04-23]
+## [2025-05-13]
+
 **Initial publication of public FFI API specifications**
 
 - Added `core/ffi-core.yaml` (version: `3.2.0`)
 - Added `contract/ffi-contract.yaml` (version: `1.0.0`)
-- Added `conventions/api-conventions.md`
-- Added `LICENSE.md` with usage restrictions
-- Added `README.md` with structure and access guidelines
-
----
+- Added `conventions/api-conventions.md` – shared API usage requirements and rules
+- Added `configurations/default.yaml` – default federation parameters referenced by conventions
+- Added `LICENSE.md` – outlines usage restrictions and implementation terms
+- Added `README.md` – describes repository structure and governance model
+- Added `GETTING_STARTED.md` – step-by-step usage guide with roles, flows, and conventions
+- Added `SECURITY.md` – defines how to report vulnerabilities and security scope
 
 ---
 
