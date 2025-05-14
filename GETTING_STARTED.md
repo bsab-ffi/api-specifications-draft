@@ -29,7 +29,7 @@ As a Requestor, your system must:
 3. Poll for the corresponding response  
 4. Acknowledge receipt
 
-👉 See [The Happy Flow – Request to Acknowledgment](#-the-happy-flow--request-to-acknowledgment) for step-by-step details including headers, payloads, and conventions.
+👉 See [The Happy Flow – Request to Response Acknowledgment](#the-happy-flow--request-to-response-acknowledgment) for step-by-step details including headers, payloads, and conventions.
 
 ---
 
@@ -66,7 +66,7 @@ Each federation or provider is responsible for exposing the correct version(s), 
 
 ---
 
-## The Happy Flow – Request to Acknowledgment
+## The Happy Flow – Request to Response Acknowledgment
 
 This section describes the typical end-to-end flow for the FFI Core API, from sending a request to acknowledging the response. Each step includes required headers, payload expectations, and behavioral outcomes.
 
